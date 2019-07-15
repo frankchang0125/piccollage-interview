@@ -1,0 +1,3 @@
+[submodule "shorten_url"]
+	path = shorten_url
+	url = git@github.com:frankchang0125/piccollage-shorten-url.git
